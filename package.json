@@ -1,0 +1,19 @@
+{
+  "name": "sentry-backend-logging-with-express-nodejs",
+  "version": "1.0.0",
+  "description": "Sentry backend logging with express nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sentry",
+    "express",
+    "node"
+  ],
+  "author": "maskeynihal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
